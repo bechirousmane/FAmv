@@ -119,7 +119,7 @@ If you use this code in your research, please cite the original paper:
 ```bibtex
 @article{bechir2026firefly,
   title={A Firefly Algorithm for Mixed-Variable Optimization Based on Hybrid Distance Modeling},
-  author={Bechir, Ousmane Tom and Jos\'e-Garc\'ia, Ad\'an and Chelly Garcia, Zaineb and Sobanski, Vincent and Dhaenens, Clarisse},
+  author={Bechir, Ousmane Tom and Jos\'e-Garc\'ia, Ad\'an and Chelly Dagdia, Zaineb and Sobanski, Vincent and Dhaenens, Clarisse},
   journal={arXiv preprint arXiv:2603.26792},
   year={2026}
 }
